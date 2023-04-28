@@ -40,14 +40,14 @@ The analysis above gives insights into the most popular products. We can use thi
 
 ![UNIT SOLD BY SEGMENT AND PRODUCT](https://user-images.githubusercontent.com/131447403/235129678-6da3ebb4-30d8-498c-852b-46d542984e72.png)
 
-The analysis above may gives the insights into which segments are having the highest sales per product. 
+The analysis above gives the insights into which segments are having the highest sales per product. 
 This analysis shows that the Government has the highest sales in each product.
 
 
 
 ![SALES BY SEGMENT AND PRODUCT](https://user-images.githubusercontent.com/131447403/235131033-48f4c572-183b-4aee-af57-97c0a61e7ca1.png)
 
-The analysis above gives the insights into which segments and products are generating the most revenue.This information cab be used to optimize your pricing and sales strategies.
+The analysis above gives the insights into which segments and products are generating the most revenue.This information can be used to optimize the pricing and sales strategies.
 
 
 
