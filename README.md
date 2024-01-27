@@ -1,4 +1,4 @@
-# Project Name: DA-Baby-Step
+# Project Name: Financial Dataset Analysis 
 This financial dataset (Financial Sample) contains names of products, amounts sold per country per year with the profits made on each product per country.
 
 
